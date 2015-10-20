@@ -1,4 +1,5 @@
-# vim
+vim配置使用说明
+
 vim_simple : vim配置文件，适用于secureCRT
 my_vimset : 一些vim配置文件，改自hurley同学
 
